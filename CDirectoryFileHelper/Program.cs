@@ -22,19 +22,43 @@ namespace CDirectoryFileHelper
             return result.Length;
         }
         #endregion
+
+        #region [ copy file ] 특정 파일을 원하는 위치에 카피함
+        public static void CopyFile(string file_name)
+        {
+            System.IO.Directory.CreateDirectory(".\\OUTPUT");
+            const int BUF_SIZE = 512;
+
+            byte[] buffer = new byte[BUF_SIZE];
+            int nFReadLen;
+
+            FileStream fs_in = new FileStream("./INPUT/" + file_name, FileMode.Open, FileAccess.Read);
+            FileStream fs_out = new FileStream("./OUTPUT/" + file_name, FileMode.Create, FileAccess.Write);
+
+            while ((nFReadLen = fs_in.Read(buffer, 0, BUF_SIZE)) > 0)
+            {
+                fs_out.Write(buffer, 0, nFReadLen);
+            }
+            fs_in.Close();
+            fs_out.Close();
+        }
+        #endregion
     }
 
     class CDirectoryFilesAPI
     {
         static void Main(string[] args)
         {
-            #region [ 사용법 ] : GetMatchedFiles
+            #region [ GetMatchedFiles 예제]
             string[] result;
             int num = CDirectoryFileHeper.GetMatchedFiles(@"D:\imdb", "clrpick.tcl", out result);
             foreach (string s in result)
             {
                 Console.WriteLine(s);
             }
+            #endregion
+            #region[ CopyFile 예제 ]
+            CDirectoryFileHeper.CopyFile("test.exe");
             #endregion
 
             Console.ReadKey();
