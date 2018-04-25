@@ -1,0 +1,7 @@
+D:\my-charp-project\CDirectoryFileHelper\obj\Debug\CDirectoryFileHelper.csprojResolveAssemblyReference.cache
+D:\my-charp-project\CDirectoryFileHelper\obj\Debug\CDirectoryFileHelper.csproj.CoreCompileInputs.cache
+D:\my-charp-project\CDirectoryFileHelper\bin\Debug\CDirectoryFileHelper.exe.config
+D:\my-charp-project\CDirectoryFileHelper\bin\Debug\CDirectoryFileHelper.exe
+D:\my-charp-project\CDirectoryFileHelper\bin\Debug\CDirectoryFileHelper.pdb
+D:\my-charp-project\CDirectoryFileHelper\obj\Debug\CDirectoryFileHelper.exe
+D:\my-charp-project\CDirectoryFileHelper\obj\Debug\CDirectoryFileHelper.pdb
