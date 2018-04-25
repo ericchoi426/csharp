@@ -1,7 +1,0 @@
-D:\my-charp-project\CSharpSolution\CSharpSolution\bin\Debug\CSharpSolution.exe.config
-D:\my-charp-project\CSharpSolution\CSharpSolution\bin\Debug\CSharpSolution.exe
-D:\my-charp-project\CSharpSolution\CSharpSolution\bin\Debug\CSharpSolution.pdb
-D:\my-charp-project\CSharpSolution\CSharpSolution\obj\Debug\CSharpSolution.csproj.CoreCompileInputs.cache
-D:\my-charp-project\CSharpSolution\CSharpSolution\obj\Debug\CSharpSolution.exe
-D:\my-charp-project\CSharpSolution\CSharpSolution\obj\Debug\CSharpSolution.pdb
-D:\my-charp-project\CSharpSolution\CSharpSolution\obj\Debug\CSharpSolution.csprojResolveAssemblyReference.cache
