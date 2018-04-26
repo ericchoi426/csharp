@@ -67,7 +67,7 @@ namespace CDirectoryFileHelper
         {
             bool result = true;
 
-            using(var writer = new StreamWriter(out_file_name, true, Encoding.ASCII))
+            using(var writer = new StreamWriter(out_file_name, true, Encoding.UTF8))
             {
                 foreach(string line in data)
                 {
@@ -107,7 +107,10 @@ namespace CDirectoryFileHelper
                 }
             }
             #endregion
-
+            #region [StreamWrite]
+            string writeFileName = @"..\..\data\program2.txt";
+            success = CDirectoryFileHeper.WriteFile(writeFileName, datalist);
+            #endregion
             Console.ReadKey();
         }
     }

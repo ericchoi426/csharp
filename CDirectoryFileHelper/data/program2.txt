@@ -1,0 +1,40 @@
+﻿using System;
+using System.IO;
+
+namespace PrjFileSearch
+{
+    class Program
+    {
+        static void copyFile(string filename)
+        {
+            System.IO.Directory.CreateDirectory(".\\OUTPUT");
+            const int BUF_SIZE = 512;
+
+            byte[] buffer = new byte[BUF_SIZE];
+            int nFReadLen;
+
+            FileStream fs_in = new FileStream("./INPUT/" + filename, FileMode.Open, FileAccess.Read);
+            FileStream fs_out = new FileStream("./OUTPUT/" + filename, FileMode.Create, FileAccess.Write);
+
+            while((nFReadLen = fs_in.Read(buffer, 0, BUF_SIZE)) > 0)
+            {
+                fs_out.Write(buffer, 0, nFReadLen);
+            }
+            fs_in.Close();
+            fs_out.Close();
+        }
+        static void Main(string[] args)
+        {
+            DirectoryInfo directoryInfo = new DirectoryInfo("./INPUT");
+            FileInfo[] fileInfo = directoryInfo.GetFiles();
+            foreach(FileInfo fi in fileInfo)
+            {
+                Console.WriteLine("{0}:{1}bytes.", fi.Name, fi.Length);
+                if(fi.Length > 2048)
+                {
+                    copyFile(fi.Name);
+                }
+            }
+        }
+    }
+}
