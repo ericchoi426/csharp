@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDirectoryFileHelper", "CDirectoryFileHelper\CDirectoryFileHelper.csproj", "{0E8C5AA0-7AB0-4F65-AC2A-CA3AEE9F2239}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDataStructure", "CDataStructure\CDataStructure.csproj", "{D312F31C-F7DF-4F5F-871C-B8B829E9A622}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0E8C5AA0-7AB0-4F65-AC2A-CA3AEE9F2239}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E8C5AA0-7AB0-4F65-AC2A-CA3AEE9F2239}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E8C5AA0-7AB0-4F65-AC2A-CA3AEE9F2239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D312F31C-F7DF-4F5F-871C-B8B829E9A622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D312F31C-F7DF-4F5F-871C-B8B829E9A622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D312F31C-F7DF-4F5F-871C-B8B829E9A622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D312F31C-F7DF-4F5F-871C-B8B829E9A622}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
