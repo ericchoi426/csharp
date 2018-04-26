@@ -61,6 +61,23 @@ namespace CDirectoryFileHelper
             return false;
         }
         #endregion
+
+        #region[ StreamWrite ]
+        public static bool WriteFile(string out_file_name, List<string> data)
+        {
+            bool result = true;
+
+            using(var writer = new StreamWriter(out_file_name, true, Encoding.ASCII))
+            {
+                foreach(string line in data)
+                {
+                    writer.WriteLine(line);
+                }
+            }
+
+            return result;
+        }
+        #endregion
     }
 
     class CDirectoryFilesAPI

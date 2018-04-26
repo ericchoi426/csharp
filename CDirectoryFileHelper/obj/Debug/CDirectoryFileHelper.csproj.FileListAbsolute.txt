@@ -5,3 +5,10 @@ D:\my-charp-project\CDirectoryFileHelper\bin\Debug\CDirectoryFileHelper.exe
 D:\my-charp-project\CDirectoryFileHelper\bin\Debug\CDirectoryFileHelper.pdb
 D:\my-charp-project\CDirectoryFileHelper\obj\Debug\CDirectoryFileHelper.exe
 D:\my-charp-project\CDirectoryFileHelper\obj\Debug\CDirectoryFileHelper.pdb
+D:\lgcns.mygit\csharp\CDirectoryFileHelper\bin\Debug\CDirectoryFileHelper.exe.config
+D:\lgcns.mygit\csharp\CDirectoryFileHelper\bin\Debug\CDirectoryFileHelper.exe
+D:\lgcns.mygit\csharp\CDirectoryFileHelper\bin\Debug\CDirectoryFileHelper.pdb
+D:\lgcns.mygit\csharp\CDirectoryFileHelper\obj\Debug\CDirectoryFileHelper.csprojResolveAssemblyReference.cache
+D:\lgcns.mygit\csharp\CDirectoryFileHelper\obj\Debug\CDirectoryFileHelper.csproj.CoreCompileInputs.cache
+D:\lgcns.mygit\csharp\CDirectoryFileHelper\obj\Debug\CDirectoryFileHelper.exe
+D:\lgcns.mygit\csharp\CDirectoryFileHelper\obj\Debug\CDirectoryFileHelper.pdb
