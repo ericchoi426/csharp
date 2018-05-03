@@ -198,9 +198,11 @@ namespace CDataStructure
         #endregion
 
         #region [ string : 정규식 숫자 추출 ]
-        public static string GetDecimal(string input,string replace)
+        public static string GetDecimal(string input,string rep)
         {
-            string strNum = Regex.Replace(input, @"\D", replace);
+            // \d : 숫자 \D: 문자를 의미
+            // 따라서 하기 내용은 문자열중에서 숫자를 제외한 문자만 골라서 rep 문자로 대체한다.
+            string strNum = Regex.Replace(input, @"\D", rep);
             return strNum;
         }
         #endregion
