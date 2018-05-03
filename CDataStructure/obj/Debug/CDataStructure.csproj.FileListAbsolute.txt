@@ -1,7 +1,6 @@
 D:\lgcns.mygit\csharp\CDataStructure\bin\Debug\CDataStructure.exe.config
 D:\lgcns.mygit\csharp\CDataStructure\bin\Debug\CDataStructure.exe
 D:\lgcns.mygit\csharp\CDataStructure\bin\Debug\CDataStructure.pdb
-D:\lgcns.mygit\csharp\CDataStructure\obj\Debug\CDataStructure.csprojResolveAssemblyReference.cache
 D:\lgcns.mygit\csharp\CDataStructure\obj\Debug\CDataStructure.csproj.CoreCompileInputs.cache
 D:\lgcns.mygit\csharp\CDataStructure\obj\Debug\CDataStructure.exe
 D:\lgcns.mygit\csharp\CDataStructure\obj\Debug\CDataStructure.pdb

@@ -43,6 +43,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CDataStructure.cs" />
+    <Compile Include="CDSNativeArray.cs" />
+    <Compile Include="CDSString.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
