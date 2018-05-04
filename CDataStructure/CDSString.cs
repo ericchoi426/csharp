@@ -199,7 +199,7 @@ namespace CDataStructure
         #endregion
 
         #region [ string : 정규식 숫자 추출 ]
-        public static string GetDecimal(string input, string rep)
+        public static string GetDecimalFromString(string input, string rep)
         {
             // \d : 숫자 \D: 문자를 의미
             // 따라서 하기 내용은 문자열중에서 숫자를 제외한 문자만 골라서 rep 문자로 대체한다.
@@ -229,7 +229,7 @@ namespace CDataStructure
 
                 #region [ example of GetDecimal ]
                 {
-                    string strDel = GetDecimal("123adkdi67dkdkdkdk7d88888a", " ");
+                    string strDel = GetDecimalFromString("123adkdi67dkdkdkdk7d88888a", " ");
                     //string[] words = strDel.Split(' ');
                     var words = strDel.Split(new[] { " " }, StringSplitOptions.RemoveEmptyEntries);
                     Console.WriteLine("input words :{0} and # of splited words:{1}", strDel, words.Length);

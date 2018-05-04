@@ -12,7 +12,9 @@ namespace CDataStructure
         
         static void Main(string[] args)
         {
-            CDSString.DoTest(true);
+            CDSString.DoTest(false);
+            CDSNativeArray.DoTest(false);
+            CDSList.DoTest(true);
             // Keep the console window open in debug mode
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
