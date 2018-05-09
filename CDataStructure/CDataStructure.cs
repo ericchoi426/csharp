@@ -12,11 +12,11 @@ namespace CDataStructure
         
         static void Main(string[] args)
         {
-            CDSString.DoTest(false);
+            CDSString.DoTest(true);
             CDSNativeArray.DoTest(false);
             CDSList.DoTest(false);
             CDSDictionary.DoTest(false);
-            CDSListExtend.DoTest(true);
+            CDSListExtend.DoTest(false);
             // Keep the console window open in debug mode
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();

@@ -208,11 +208,25 @@ namespace CDataStructure
         }
         #endregion
 
+        public static void Test_SplitStringIntoStringArray(bool doTest)
+        {
+            if (!doTest) return;
+            string org = "abcdefghijklm";
+            char[] arr = org.ToCharArray();
+            foreach(char a in arr)
+            {
+                string aa = a.ToString();
+                Console.WriteLine(a);//내부적으로 ToString이 호출됨
+                Console.WriteLine(aa);
+            }
+        }
+
         #region [ TEST ]
         public static void DoTest(bool doTest)
         {
             if (doTest)
             {
+                
                 HandleStringExample1();
                 HandleStringSplit();
                 PrintFormattedString();
@@ -242,6 +256,8 @@ namespace CDataStructure
 
                 }
                 #endregion
+                
+                Test_SplitStringIntoStringArray(true);
             }
         }
         #endregion
