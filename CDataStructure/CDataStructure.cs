@@ -14,7 +14,9 @@ namespace CDataStructure
         {
             CDSString.DoTest(false);
             CDSNativeArray.DoTest(false);
-            CDSList.DoTest(true);
+            CDSList.DoTest(false);
+            CDSDictionary.DoTest(false);
+            CDSListExtend.DoTest(true);
             // Keep the console window open in debug mode
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();

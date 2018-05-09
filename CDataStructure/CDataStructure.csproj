@@ -43,7 +43,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CDataStructure.cs" />
+    <Compile Include="CDSDictionary.cs" />
     <Compile Include="CDSList.cs" />
+    <Compile Include="CDSListExtend.cs" />
     <Compile Include="CDSNativeArray.cs" />
     <Compile Include="CDSString.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
