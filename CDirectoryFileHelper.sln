@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDirectoryFileHelper", "CDi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDataStructure", "CDataStructure\CDataStructure.csproj", "{D312F31C-F7DF-4F5F-871C-B8B829E9A622}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CThread", "CThread\CThread.csproj", "{EE054669-C09A-403A-9BF4-64FA58FF81EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D312F31C-F7DF-4F5F-871C-B8B829E9A622}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D312F31C-F7DF-4F5F-871C-B8B829E9A622}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D312F31C-F7DF-4F5F-871C-B8B829E9A622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE054669-C09A-403A-9BF4-64FA58FF81EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE054669-C09A-403A-9BF4-64FA58FF81EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE054669-C09A-403A-9BF4-64FA58FF81EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE054669-C09A-403A-9BF4-64FA58FF81EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

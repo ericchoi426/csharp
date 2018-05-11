@@ -95,6 +95,25 @@ namespace CDataStructure
 
         }
         #endregion
+        #region[ convert array to Dictionary ]
+        public static void Test_Array2Dict(bool doTest)
+        {
+            if (!doTest) return;
+            string[] arr = new string[]
+            {
+                "One",
+                "Two",
+                "Three"
+            };
+
+            var dict = arr.ToDictionary(item => item, item => true);
+            foreach(var pair in dict)
+            {
+                Console.WriteLine("{0},{1}", pair.Key, pair.Value);
+            }
+
+        }
+        #endregion
         #region [ TEST ]
         public static void DoTest(bool doTest)
         {
@@ -103,7 +122,8 @@ namespace CDataStructure
                 addDictionary(false);
                 Test_ContainKey(false);
                 Test_TryGetValue(false);
-                Test_Loop(true);
+                Test_Loop(false);
+                Test_Array2Dict(true);
             }
         }
         #endregion

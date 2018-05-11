@@ -1,0 +1,7 @@
+D:\lgcns.mygit\csharp\CThread\bin\Debug\CThread.exe.config
+D:\lgcns.mygit\csharp\CThread\bin\Debug\CThread.exe
+D:\lgcns.mygit\csharp\CThread\bin\Debug\CThread.pdb
+D:\lgcns.mygit\csharp\CThread\obj\Debug\CThread.csprojResolveAssemblyReference.cache
+D:\lgcns.mygit\csharp\CThread\obj\Debug\CThread.csproj.CoreCompileInputs.cache
+D:\lgcns.mygit\csharp\CThread\obj\Debug\CThread.exe
+D:\lgcns.mygit\csharp\CThread\obj\Debug\CThread.pdb
