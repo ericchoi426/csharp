@@ -1,0 +1,7 @@
+C:\csharp\CExamEncoding\bin\Debug\CExamEncoding.exe.config
+C:\csharp\CExamEncoding\bin\Debug\CExamEncoding.exe
+C:\csharp\CExamEncoding\bin\Debug\CExamEncoding.pdb
+C:\csharp\CExamEncoding\obj\Debug\CExamEncoding.csprojResolveAssemblyReference.cache
+C:\csharp\CExamEncoding\obj\Debug\CExamEncoding.csproj.CoreCompileInputs.cache
+C:\csharp\CExamEncoding\obj\Debug\CExamEncoding.exe
+C:\csharp\CExamEncoding\obj\Debug\CExamEncoding.pdb

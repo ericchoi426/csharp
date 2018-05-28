@@ -1,0 +1,7 @@
+C:\csharp\CExamDictionary\bin\Debug\CExamDictionary.exe.config
+C:\csharp\CExamDictionary\bin\Debug\CExamDictionary.exe
+C:\csharp\CExamDictionary\bin\Debug\CExamDictionary.pdb
+C:\csharp\CExamDictionary\obj\Debug\CExamDictionary.csprojResolveAssemblyReference.cache
+C:\csharp\CExamDictionary\obj\Debug\CExamDictionary.csproj.CoreCompileInputs.cache
+C:\csharp\CExamDictionary\obj\Debug\CExamDictionary.exe
+C:\csharp\CExamDictionary\obj\Debug\CExamDictionary.pdb
