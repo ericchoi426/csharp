@@ -11,3 +11,9 @@ D:\lgcns.mygit\csharp\CDirectoryFileHelper\bin\Debug\CDirectoryFileHelper.pdb
 D:\lgcns.mygit\csharp\CDirectoryFileHelper\obj\Debug\CDirectoryFileHelper.csproj.CoreCompileInputs.cache
 D:\lgcns.mygit\csharp\CDirectoryFileHelper\obj\Debug\CDirectoryFileHelper.exe
 D:\lgcns.mygit\csharp\CDirectoryFileHelper\obj\Debug\CDirectoryFileHelper.pdb
+C:\csharp\CDirectoryFileHelper\bin\Debug\CDirectoryFileHelper.exe.config
+C:\csharp\CDirectoryFileHelper\bin\Debug\CDirectoryFileHelper.exe
+C:\csharp\CDirectoryFileHelper\bin\Debug\CDirectoryFileHelper.pdb
+C:\csharp\CDirectoryFileHelper\obj\Debug\CDirectoryFileHelper.csproj.CoreCompileInputs.cache
+C:\csharp\CDirectoryFileHelper\obj\Debug\CDirectoryFileHelper.exe
+C:\csharp\CDirectoryFileHelper\obj\Debug\CDirectoryFileHelper.pdb

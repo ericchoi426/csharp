@@ -5,3 +5,10 @@ D:\lgcns.mygit\csharp\CThread\obj\Debug\CThread.csprojResolveAssemblyReference.c
 D:\lgcns.mygit\csharp\CThread\obj\Debug\CThread.csproj.CoreCompileInputs.cache
 D:\lgcns.mygit\csharp\CThread\obj\Debug\CThread.exe
 D:\lgcns.mygit\csharp\CThread\obj\Debug\CThread.pdb
+C:\csharp\CThread\bin\Debug\CThread.exe.config
+C:\csharp\CThread\bin\Debug\CThread.exe
+C:\csharp\CThread\bin\Debug\CThread.pdb
+C:\csharp\CThread\obj\Debug\CThread.csprojResolveAssemblyReference.cache
+C:\csharp\CThread\obj\Debug\CThread.csproj.CoreCompileInputs.cache
+C:\csharp\CThread\obj\Debug\CThread.exe
+C:\csharp\CThread\obj\Debug\CThread.pdb

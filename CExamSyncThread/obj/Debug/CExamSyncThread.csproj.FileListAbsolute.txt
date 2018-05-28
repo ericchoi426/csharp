@@ -1,0 +1,7 @@
+C:\csharp\CExamSyncThread\bin\Debug\CExamSyncThread.exe.config
+C:\csharp\CExamSyncThread\bin\Debug\CExamSyncThread.exe
+C:\csharp\CExamSyncThread\bin\Debug\CExamSyncThread.pdb
+C:\csharp\CExamSyncThread\obj\Debug\CExamSyncThread.csprojResolveAssemblyReference.cache
+C:\csharp\CExamSyncThread\obj\Debug\CExamSyncThread.csproj.CoreCompileInputs.cache
+C:\csharp\CExamSyncThread\obj\Debug\CExamSyncThread.exe
+C:\csharp\CExamSyncThread\obj\Debug\CExamSyncThread.pdb

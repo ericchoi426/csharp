@@ -1,0 +1,7 @@
+C:\csharp\CExamClinet2\bin\Debug\CExamClinet2.exe.config
+C:\csharp\CExamClinet2\bin\Debug\CExamClinet2.exe
+C:\csharp\CExamClinet2\bin\Debug\CExamClinet2.pdb
+C:\csharp\CExamClinet2\obj\Debug\CExamClinet2.csprojResolveAssemblyReference.cache
+C:\csharp\CExamClinet2\obj\Debug\CExamClinet2.csproj.CoreCompileInputs.cache
+C:\csharp\CExamClinet2\obj\Debug\CExamClinet2.exe
+C:\csharp\CExamClinet2\obj\Debug\CExamClinet2.pdb

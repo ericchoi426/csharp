@@ -5,3 +5,10 @@ D:\lgcns.mygit\csharp\CDataStructure\obj\Debug\CDataStructure.csproj.CoreCompile
 D:\lgcns.mygit\csharp\CDataStructure\obj\Debug\CDataStructure.exe
 D:\lgcns.mygit\csharp\CDataStructure\obj\Debug\CDataStructure.pdb
 D:\lgcns.mygit\csharp\CDataStructure\obj\Debug\CDataStructure.csprojResolveAssemblyReference.cache
+C:\csharp\CDataStructure\bin\Debug\CDataStructure.exe.config
+C:\csharp\CDataStructure\bin\Debug\CDataStructure.exe
+C:\csharp\CDataStructure\bin\Debug\CDataStructure.pdb
+C:\csharp\CDataStructure\obj\Debug\CDataStructure.csprojResolveAssemblyReference.cache
+C:\csharp\CDataStructure\obj\Debug\CDataStructure.csproj.CoreCompileInputs.cache
+C:\csharp\CDataStructure\obj\Debug\CDataStructure.exe
+C:\csharp\CDataStructure\obj\Debug\CDataStructure.pdb

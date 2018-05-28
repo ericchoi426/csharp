@@ -1,0 +1,7 @@
+C:\csharp\CExamServer2\bin\Debug\CExamServer2.exe.config
+C:\csharp\CExamServer2\bin\Debug\CExamServer2.exe
+C:\csharp\CExamServer2\bin\Debug\CExamServer2.pdb
+C:\csharp\CExamServer2\obj\Debug\CExamServer2.csprojResolveAssemblyReference.cache
+C:\csharp\CExamServer2\obj\Debug\CExamServer2.csproj.CoreCompileInputs.cache
+C:\csharp\CExamServer2\obj\Debug\CExamServer2.exe
+C:\csharp\CExamServer2\obj\Debug\CExamServer2.pdb

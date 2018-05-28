@@ -1,0 +1,7 @@
+C:\csharp\CExamClient\bin\Debug\CExamClient.exe.config
+C:\csharp\CExamClient\bin\Debug\CExamClient.exe
+C:\csharp\CExamClient\bin\Debug\CExamClient.pdb
+C:\csharp\CExamClient\obj\Debug\CExamClient.csprojResolveAssemblyReference.cache
+C:\csharp\CExamClient\obj\Debug\CExamClient.csproj.CoreCompileInputs.cache
+C:\csharp\CExamClient\obj\Debug\CExamClient.exe
+C:\csharp\CExamClient\obj\Debug\CExamClient.pdb

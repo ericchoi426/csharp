@@ -1,0 +1,14 @@
+C:\CSProject\csharp-master\CExamThread\bin\Debug\CExamThread.exe.config
+C:\CSProject\csharp-master\CExamThread\bin\Debug\CExamThread.exe
+C:\CSProject\csharp-master\CExamThread\bin\Debug\CExamThread.pdb
+C:\CSProject\csharp-master\CExamThread\obj\Debug\CExamThread.csprojResolveAssemblyReference.cache
+C:\CSProject\csharp-master\CExamThread\obj\Debug\CExamThread.csproj.CoreCompileInputs.cache
+C:\CSProject\csharp-master\CExamThread\obj\Debug\CExamThread.exe
+C:\CSProject\csharp-master\CExamThread\obj\Debug\CExamThread.pdb
+C:\csharp\CExamThread\bin\Debug\CExamThread.exe.config
+C:\csharp\CExamThread\bin\Debug\CExamThread.exe
+C:\csharp\CExamThread\bin\Debug\CExamThread.pdb
+C:\csharp\CExamThread\obj\Debug\CExamThread.csprojResolveAssemblyReference.cache
+C:\csharp\CExamThread\obj\Debug\CExamThread.csproj.CoreCompileInputs.cache
+C:\csharp\CExamThread\obj\Debug\CExamThread.exe
+C:\csharp\CExamThread\obj\Debug\CExamThread.pdb
